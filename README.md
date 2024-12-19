@@ -1,5 +1,6 @@
 # PsensorGUI
 
+
 **PsensorGUI** is a lightweight system performance monitoring tool for Windows. It provides real-time monitoring of CPU, memory, GPU, and disk usage, along with the temperature of your CPU and GPU. The application features a user-friendly interface with progress bars and labels to easily track system performance.
 
 ## Features:
