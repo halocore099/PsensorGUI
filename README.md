@@ -10,7 +10,7 @@
 - **Compact and Lightweight**: Designed to be easy to use without consuming significant resources.
 
 ## Installation:
-1. **Download** the latest release from the [Releases](https://github.com/yourusername/PsensorGUI/releases) page.
+1. **Download** the latest release from the [Releases](https://github.com/halocore099/PsensorGUI/releases) page.
 2. **Extract** the contents of the ZIP file.
 3. **Run** `PsensorGUI.exe` to start monitoring your system.
 
